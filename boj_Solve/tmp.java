@@ -1,5 +1,5 @@
 //java file for BOJ PS
-package BOJ_Solve;
+package boj_Solve;
 //import java.util.*;
 
 /*public class Main{
@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class _2021 {
+public class tmp {
 
     static Integer[] arr;
 

@@ -1,4 +1,4 @@
-package Study;
+package study;
 
 import java.io.File;
 import java.io.FileNotFoundException;
